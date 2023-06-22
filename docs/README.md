@@ -1,0 +1,1 @@
+Let's use this directory to store all relevant documentation in .md files.
