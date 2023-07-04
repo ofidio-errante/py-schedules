@@ -18,7 +18,8 @@
 *Example*: `feature-update_branch_strategy_docs-1`
 
 ## Pull request
-The pull request should have a descriptive title. It should describe the changes, any furter action needed and if possible specify the testing.
+The pull request should have a descriptive title.  
+It should describe the changes, any further action needed and if possible specify the testing.
 
 *Example*
 > # Update branch strategy in docs
